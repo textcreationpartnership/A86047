@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The replication of Master Glyn, in the name of all the Commons of England, to the generall answer of Thomas Earle of Strafford, Lord Lieutenant of Ireland, to the severall charges exhibited against him in Parliament by the house of Commons, April the 13. 1641.</title>
+            <author>Glynne, John, Sir, 1603-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86047</idno>
+            <idno type="STC">Wing G891</idno>
+            <idno type="STC">Thomason E207_10</idno>
+            <idno type="STC">ESTC R17729</idno>
+            <idno type="EEBO-CITATION">99860257</idno>
+            <idno type="PROQUEST">99860257</idno>
+            <idno type="VID">112374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112374)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 36:E207[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The replication of Master Glyn, in the name of all the Commons of England, to the generall answer of Thomas Earle of Strafford, Lord Lieutenant of Ireland, to the severall charges exhibited against him in Parliament by the house of Commons, April the 13. 1641.</title>
+                  <author>Glynne, John, Sir, 1603-1666.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[4], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The initial leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641 --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112374:1"/>
+            <pb facs="tcp:112374:1" rendition="simple:additions"/>
+            <p>THE REPLICATION OF Maſter Glyn, In the name of all the Commons of ENGLAND, to the generall an<g ref="char:EOLhyphen"/>ſwer of THOMAS Earle of Straf<g ref="char:EOLhyphen"/>ford, Lord Lieutenant of Ireland, to the ſeverall Charges exhibited againſt him in Parliament by the houſe of Commons, April the 13. 1641.</p>
+            <p>London Printed, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:112374:2"/>
+            <pb n="1" facs="tcp:112374:2"/>
+            <head>The Replication of M<hi rend="sup">r</hi> 
+               <hi>Glyn,</hi> in the name of all the <hi>Commons</hi> of England, to the generall anſwer of <hi>Thomas</hi> Earle of Straf<g ref="char:EOLhyphen"/>ford L. Lieutenant of Ireland, to the ſeverall Charges exhibited againſt him in Par<g ref="char:EOLhyphen"/>liament, by the Houſe of Com<g ref="char:EOLhyphen"/>mons, Aprill the 13. 1641.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>BEE pleaſed to give me but a little re<g ref="char:EOLhyphen"/>ſpite, and I make no doubt but to repre<g ref="char:EOLhyphen"/>ſent to your Lordſhips <hi>Thomas</hi> Earle of Strafford, now priſoner at the Bar, as ſubtle in his anſwers, as he hath been cunning in his practices.</p>
+            <p>The ſaid Maſter <hi>Glyn</hi> retiring himſelfe for the ſpace of halfe an houre, and returning, thus began.</p>
+            <p>
+               <hi>My Lords,</hi> Wee are here entruſted by the houſe of Commons, in the name of all the Commons of England to recollect our evi<g ref="char:EOLhyphen"/>dence,
+<pb n="2" facs="tcp:112374:3"/>
+and to apply it to the generall charge, whereunto it is directed.</p>
+            <p>My Lord of Strafford recollecting the evi<g ref="char:EOLhyphen"/>dence of his defence (under favour) did expreſſe how ſubtle he therein was, which I ſhall make appeare to your Lordſhips in ſundry particu<g ref="char:EOLhyphen"/>lars.</p>
+            <p>But my Lords, before I enter upon it, I ſhall make ſome obſervations and anſwers to that, reducing it againe to that method, though not ſo exactly (I feare) as I have propoſed it to my ſelfe.</p>
+            <p>It will eaſily appeare to your Lordſhips; That the Earle of Strafford hath expreſt what<g ref="char:EOLhyphen"/>ſoever may ſeeme to make for him, but concea<g ref="char:EOLhyphen"/>led the reſt.</p>
+            <p>He hath miſrecited, and miſwreſted proofes, both on his owne ſide and ours.</p>
+            <p>He hath <hi>My Lords,</hi> taken this advantage, that it might make for his defence.</p>
+            <p>He hath disjoynted thoſe teſtimonies and witneſſes that made againſt him: That they might appeare like ſmall ſcattered drops of raine, which nevertheleſſe being gathered toge<g ref="char:EOLhyphen"/>ther, would over-flow the body of the earth it ſelfe.</p>
+            <p>
+               <hi>My Lords,</hi> I doubt not in the generall, but to make good what I have ſpoken againſt him, who hath made a flouriſh this day (as he hath formerly) that if he had longer time, he is con<g ref="char:EOLhyphen"/>fident he could have cleared himſelfe of thoſe
+<pb n="3" facs="tcp:112374:3"/>
+great crimes wherewith he ſtands charged.</p>
+            <p>Give mee leave therefore to informe your Lordſhips, that he is no way ſcanted by time, whatſoever his flouriſhing Rhetorick may en<g ref="char:EOLhyphen"/>deavour to inſinuate.</p>
+            <p>
+               <hi>My Lords,</hi> it may as eaſily, as plainly appeare, that there is nothing wanting to him, for hee hath ſeverall Copies of papers of the Councell-Table here, and of the Parliament in Ireland, and yet he ſtill pretends, he is not ready; only to protract and gaine time.</p>
+            <p>
+               <hi>My Lords,</hi> he hath often mentioned this day, and the day before, that many Articles where<g ref="char:EOLhyphen"/>with he ſtands charged, are proved but by one witneſſe, and therefore he takes advantage of the Statute, 1 <hi>Edw.</hi> 6. That a man ought not to be condemned by one witneſſe.</p>
+            <p>
+               <hi>My Lords,</hi> This is a fallacy of his own heart, for the ſeverall charges againſt him are not de<g ref="char:EOLhyphen"/>poſed by one witneſſe only, but many.</p>
+            <p>
+               <hi>My Lords,</hi> His charge is for ſubverting the fundamentall Lawes of the Land, and endeavou<g ref="char:EOLhyphen"/>ring to introduce a tyrannicall government.</p>
+            <p>If your Lordſhips put theſe together, you ſhall finde clearely, by how weake a thred his anſwers hang.</p>
+            <p>
+               <hi>My Lords,</hi> Another compariſon I ſhall be bold to make, is, That he was pleaſed to caſt an aſ<g ref="char:EOLhyphen"/>perſion in the entrance of his anſwer, upon thoſe which were and are entruſted by the houſe of Commons; by pretending the ſeverall
+<pb n="4" facs="tcp:112374:4"/>
+charges were not proved, which indeed are proved ſufficiently.</p>
+            <p>
+               <hi>My Lords,</hi> Wee ſtand here to juſtifie and maintaine what we have ſpoken, and however he is pleaſed to caſt it upon us, we are bold to retort it upon him, but ſhould be loath to be ſo guilty in this, as he is found in the ſeverall charges.</p>
+            <p>
+               <hi>My Lords,</hi> He hath been pleaſed to make a generall plea, that theſe particulars, though put together in one body, cannot poſſibly make a Felony, nor 100. Felonies a Treaſon; in<g ref="char:EOLhyphen"/>ſtancing in that of a bloody knife in a murthe<g ref="char:EOLhyphen"/>rers hand, but I make no doubt he well knowes, that the caſe of murthering a private man, and of a whole Kingdome differ, and that there may be Treaſon intended in the latter, though by Gods mercy prevented.</p>
+            <p>He that intends to kill a King, though it bee not perpetrated, is nevertheleſſe guilty of high Treaſon, yet a King, though murthered, may live in his poſterity; but to kill the whole Kingdome, and their poſterity, to bring them into perpetuall bondage and ſlavery, if this be not high Treaſon, and the higheſt degree of Treaſon, I muſt profeſſe I yet know not what Treaſon is.</p>
+            <p>Beſides, <hi>my Lords,</hi> (under favour) I ſhall put you in remembrance, that <hi>Faux,</hi> the greateſt and moſt deſperate Traitor that any Age hath brought forth, might have pretended this ex<g ref="char:EOLhyphen"/>cuſe,
+<pb n="5" facs="tcp:112374:4"/>
+That the taking in of barrels of gunpouder, and putting them under the parliament houſe, laying the traine of pouder, and kindling the match (to execute the moſt horrid villany that ever hell teemed) was no treaſon, becauſe not effected; but if you conſider the circumſtan<g ref="char:EOLhyphen"/>ces, you will finde it capitall treaſon, and hee might have had as much excuſe for his villany, as the Earle of Strafford in this caſe.</p>
+            <p>My Lords, <hi>Thomas</hi> Earle of Strafford endeavo<g ref="char:EOLhyphen"/>red and attempted to kill the Lawes, the funda<g ref="char:EOLhyphen"/>mentall Lawes of this kingdome: and if this be not high treaſon, it may with very good reaſon ſeeme ſtrange. My Lord of Strafford diſtingui<g ref="char:EOLhyphen"/>ſheth of treaſons, <hi>viz. That there are treaſons by Statute at Common Law, and treaſons arbitrary or conſtructive.</hi>
+            </p>
+            <p>
+               <hi>My Lords,</hi> Be pleaſed to give me leave to trace him a while, and afterwards to diſcharge my duty, truly to repreſent the cauſe, and I will a<g ref="char:EOLhyphen"/>void (as much as I can) falling into my Lord of Straffords error.</p>
+            <p>
+               <hi>My Lords,</hi> he beginneth with the fifteenth ar<g ref="char:EOLhyphen"/>ticle, and pretends the ſubſtance of the Charge is, <hi>That he cauſed a warrant to be executed by</hi> Ro<g ref="char:EOLhyphen"/>bert Savil <hi>Sergeant at armes, and divers others, (who as he conceives, ought not to ſweare in his own juſtification) and that he condemned the proceedings of the Councell boord in Ireland.</hi> Now ſaith hee, this warrant is not produced.</p>
+            <p>But my Lords, The Judges know and wil tell
+<pb n="6" facs="tcp:112374:5"/>
+you, That if a man be charged with felony, al<g ref="char:EOLhyphen"/>though the thing ſtollen bee not produced, yet nevertheleſſe the man ſtands charged. I ſay ther<g ref="char:EOLhyphen"/>fore this is but a new way and invention, found out newly by his Lordſhip (for ought I can ſee) to commit high treaſon, and to ſay he had a war<g ref="char:EOLhyphen"/>rant for it.</p>
+            <p>I beſeech your Lordſhips patience, and I truſt to c<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eare this aſſertion; and wheras he pre<g ref="char:EOLhyphen"/>tends the Sergeant at armes to be no competent witneſſe, I wonder much at it.</p>
+            <p>He is pleaſed to ſpend much of his Rhetorick when he ſaith, <hi>That monies were levied but by two or three ſoldiers, and no more.</hi> But your Lordſhips know it is as much miſchiefe to be overmaſtred by foure, as foure thouſand.</p>
+            <p>Your Lordſhips may remember, that the warrant doth not particularly expreſſe the num<g ref="char:EOLhyphen"/>ber of men that ſhould raiſe it in that warlike manner.</p>
+            <p>I might as well ſay, The King hath given me an army in Ireland, therefore I will turn it upon the bowels of the Kings people.</p>
+            <p>I thought, my Lords, hee would have inſiſted upon the other two articles, but it ſeemes hee hath been better adviſed. And for the feares of his tranſporting the Iriſh army, my Lords, thoſe feares were warrantable and juſt.</p>
+            <p>The Commons of England alſo feared, and juſtly, or elſe they would never have charged him therewith. And the Lo. feares he mentioned a<g ref="char:EOLhyphen"/>riſe
+<pb n="7" facs="tcp:112374:5"/>
+from a true and reall cauſe, and hee hath ſhewed himſelfe a good ſubject in this and all other things, and whatſoever my Lord of Straf<g ref="char:EOLhyphen"/>ford is pleaſed to ſay againſt him, his reputation ſtands untainted.</p>
+            <p>Whereas he citeth that of Maſter Treaſurer <hi>Vanes</hi> Charge, who affirmes he ſaid (ſpeaking at that time of a defenſive warre with Scotland) <hi>Your Majeſty hath hyed all wayes and meanes, and in this your extream neceſsity, for your own and your peoples ſafety, you may employ the Iriſh army to re<g ref="char:EOLhyphen"/>duce this Kingdome to obedience.</hi> My Lords, wee could plainely have prooved this teſtimony by notes taken by Secretary <hi>Vane</hi> (which notes were accordingly taken the beginning of the laſt June) and by two other witneſſes; becauſe hee affirmeth he could have proved the contrary.</p>
+            <p>
+               <hi>My Lords,</hi> I tell you what teſtimonies wee could have brought (if there had been need) to prove his intentions to bring in the Iriſh army.</p>
+            <p>True it is, the laſt recited words were ſpoken by Maſter Treaſurer <hi>Vane</hi> the fifth day of May; whereas he ſaith, <hi>How can it be true, for the Army was not on foot a moneth after.</hi> Yet, with his Lord<g ref="char:EOLhyphen"/>ſhips favor, in Aprill before, he had given order for it: ſo that (my Lords) this objection is ta<g ref="char:EOLhyphen"/>ken away out of his owne teſtimony.</p>
+            <p>Now, my Lords, before I fall upon the other words which he calls conſtructive, I ſhall hum<g ref="char:EOLhyphen"/>bly deſire your Lordſhips to look on your notes how he handled the argument.</p>
+            <p>
+               <pb n="8" facs="tcp:112374:6"/>
+               <hi>My Lords</hi> (ſaith he) <hi>I am taxed to ſay, that Ire<g ref="char:EOLhyphen"/>land was a conquered Nation,</hi> Ergo <hi>I am a Traitor for ſpeaking truth.</hi> If your Lordſhips pleaſe to looke on the articles, you ſhall finde how hee doth diſſect and cut them in ſeverall pieces, to ſerve his owne turne.</p>
+            <p>And ſo I deſcend to the fourth article, which he ſaith was proved but by one witneſſe: but I doe extreamely wonder that he ſhould affirm it, for it was proved by three or foure ſeveral Wit<g ref="char:EOLhyphen"/>neſſes, and the words themſelves were proved by foure witneſſes, to be exceeding often ſpoken by him: and if we would have troubled your lord<g ref="char:EOLhyphen"/>ſhips with more proofes, we could have proved almoſt as many charges againſt him, as hee re<g ref="char:EOLhyphen"/>mained dayes in Ireland.</p>
+            <p>
+               <hi>My Lords,</hi> then he falls back to the ſecond ar<g ref="char:EOLhyphen"/>ticle, where he ſhould have expreſt theſe words, <hi>viz. That the Kings little finger ſhould bee heavier than the loines of the Law.</hi> This, my Lords, was expreſſely prooved by five witneſſes, to make good the charge; and therefore with your Lord<g ref="char:EOLhyphen"/>ſhips patience, you ſhall find it by plain demon<g ref="char:EOLhyphen"/>ſtrations fully proved.</p>
+            <p>
+               <hi>My Lords,</hi> I ſhall not anſwere to his pieces, but bring them together, and then their foule<g ref="char:EOLhyphen"/>neſſe will more fully appeare.</p>
+            <p>Whereas he mentions, <hi>That of the Kings pre<g ref="char:EOLhyphen"/>rogative for raiſing of monies, and particularly that of the Ship money, by the Iudges teſtimony to be law;</hi> My Lords, for him to bring in that which is al<g ref="char:EOLhyphen"/>ready
+<pb n="9" facs="tcp:112374:6"/>
+condemned, and proved contrary to Law; For him therefore to counſell a King, that hee is abſolved and free from all rules of government, to invade upon poſterity, to make denial of pro<g ref="char:EOLhyphen"/>perty: my Lords it reſts in your great judge<g ref="char:EOLhyphen"/>ments, and in all that heare mee, what argument this is of defence; but 'tis no wonder: for more of the like ſtuffe followes.</p>
+            <p>
+               <hi>My Lords,</hi> Hee ſtands charged for bringing two armies into the field; and thinks to put it off, by ſaying he had been in the country.</p>
+            <p>
+               <hi>My Lords,</hi> I ſhall make it appeare, that the providing of this warre was the principall and maine deſigne to bring his ends about. My Lords, in the paſſage hereof he ſaith, that Secre<g ref="char:EOLhyphen"/>tary <hi>Vanes</hi> words were, <hi>That himſelfe was for a defenſive war; but he for an offenſive: &amp; that there was no difference in theſe.</hi> Which may well bee ſtrange to any reaſonable man, that there ſhould no difference at all bee ſet, betwixt defending a mans ſelfe, and offending others.</p>
+            <p>
+               <hi>My Lords,</hi> In the 24 Article hee mentions part of the Charge, <hi>That he was an occaſion of the diſſolution of Parliaments.</hi> Whereto he anſwers, <hi>It is not proved.</hi> But my Lords it ſhall appeare to be indeed, as the Witneſſes have already de<g ref="char:EOLhyphen"/>depoſed.</p>
+            <p>He goes on with theſe words: <hi>Can any man thinke him the occaſion of breaking up Parliaments? when ſuch counſells would have been a hinderance to his owne deſignes.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:112374:7"/>
+               <hi>My Lords,</hi> He comes from thence to the ſeven and twentieth Article, and anſwereth, <hi>That it ſeemes very ſtrange to him, That people ſhould once imagine, that a man can walke ſo ſafely 'twixt two Armies in time of war, as an Atturney, who in Terme goes from one Bench to another, with a bundle of Pa<g ref="char:EOLhyphen"/>pers under his girdle.</hi> My Lords, he makes it very ſtrange, that he ſhould be charged with treaſons for ſubverting the lawes of this kingdome.</p>
+            <p>My Lords, I anſwer: Doth not the Law make it treaſon to kill a Judge on the Bench? For why, hee is the living voice of the Law: And ſhall not he that kills the King in his people, be equally guilty?</p>
+            <p>And whereas he alledgeth, <hi>Hee never purpoſed to introduce a tyrannicall government, or to ſubvert the fundamentall lawes of this Kingdome;</hi> I anſwer (my Lords) although, praiſed be God, hee hath not effected it, yet it is too apparent hee inten<g ref="char:EOLhyphen"/>ded it.</p>
+            <p>
+               <hi>My Lords,</hi> The ſole helpe the Subject hath to conſerve his liberties, if he be detained againſt Law, is by prohibition, or <hi>Habeas Corpus:</hi> And yet both of theſe were by him reſtrained; and I refer it to your Lordſhips great judgements, whether this was not, as much as in him lay<g ref="char:punc">▪</g> to introduce an arbitrary power in the King.</p>
+            <p>And my Lords, Whereas hee ſaith as afore<g ref="char:EOLhyphen"/>ſaid, <hi>That the Kings little finger ſhould bee heavier than the loines of the Law:</hi> (for he buzzed this in<g ref="char:EOLhyphen"/>to the Peoples eares, that they ſhould find it ſo)
+<pb n="11" facs="tcp:112374:7"/>
+and then to ſpeake thoſe words at ſuch a time, when the body of the Kingdome was to meete, was ſuch a vile matter, and a crime of ſo exor<g ref="char:EOLhyphen"/>bitant a nature, that it indangered a generall in<g ref="char:EOLhyphen"/>ſurrection againſt Majeſtie, and this is proved by five witneſſes, and not diſproved by any, but Sir <hi>William Penniman,</hi> who ſaith, he heard them not; yet nevertheleſſe if five would ſay ſuch a thing, and other five deny it, the affirmative ought to ſway.</p>
+            <p>
+               <hi>My Lords,</hi> When he was ſent into Ireland with commiſſion and authority, it was not long but he purſued his intents, and produced them into act, and had not God blowen upon his devices, he had wrapped us all up in deſolation.</p>
+            <p>And then my Lords, that he, when all the lights of Juſtice were open, ſhould execute ſuch puniſhment on a Peere of the Realme of Ire<g ref="char:EOLhyphen"/>land, (as ſufficiently appeares) doth plainly de<g ref="char:EOLhyphen"/>monſtrate his miſchievous intents.</p>
+            <p>
+               <hi>My Lords,</hi> That he which is under the Law, ſhould take a power above Law, nay, without and againſt Law, in putting a man to death.</p>
+            <p>
+               <hi>My Lords,</hi> I ſhall not omit ſomewhat hee thereupon ſaid, <hi>That he hoped to have pardon of your Lordſhips therefore, if he did any thing amiſſe therein.</hi>
+            </p>
+            <p>Moreover, (my Lords) hee adjudged my Lord <hi>Corks</hi> eſtate, a lay fee dependant upon the Church, and deprived him thereof by a pa<g ref="char:EOLhyphen"/>per petition, which was a courſe uſuall with my
+<pb n="12" facs="tcp:112374:8"/>
+Lord of Strafford, to put men out of their in<g ref="char:EOLhyphen"/>heritance, againſt all law or equity.</p>
+            <p>My Lords, He goes further, and ſaith, <hi>That he would make my Lord Corke, and all Ireland know, That Acts of Councell are equall, and ſhould be as binding to the Subjects of that Kingdome, as Acts of Parliament.</hi>
+            </p>
+            <p>
+               <hi>My Lords,</hi> Here he judged alſo another, though a Peere, puts him out of his inheritance, and yet cannot finde one preſident to ground him for his ſo doing.</p>
+            <p>The next is the 27. Article, whereto hee makes his defence, when as hee was not yet charged.</p>
+            <p>And whereas he alleadgeth, <hi>That ſeeing the Warrant he ſent, he preſently recalled it, and re<g ref="char:EOLhyphen"/>called it willingly, therefore he hopes favour from your Lordſhips.</hi>
+            </p>
+            <p>
+               <hi>My Lords,</hi> The Warrant was three whole yeares in execution before it was recalled.</p>
+            <p>Your Lordſhips have heard, he is not con<g ref="char:EOLhyphen"/>tented herewith, but ſpreads it over the face of the whole Kingdome, and arrogates authority to himſelfe above the Lawes in his anſwer to the 10. Article, touching his notorious abu<g ref="char:EOLhyphen"/>ſing of the King in his Cuſtomes: He pretends <hi>It is rather matter of fraud than otherwiſe;</hi> (which tends to his Majeſties ſo great diſſervice) and this plainly appeares, for the King hath loſt thereby extreamly.</p>
+            <p>His Majeſtie loſt 5000. pound <hi>per an.</hi> of the olde Rents.</p>
+            <p>
+               <pb n="13" facs="tcp:112374:8"/>And my Lords, for the Earle of Strafford, he hath gotten 100000 pounds by Tobaco at leaſt, beſides his other Monopolies.</p>
+            <p>My Lords, In purſuance of his intents hee croſt the proceedings of the whole court of par<g ref="char:EOLhyphen"/>liament in Ireland.</p>
+            <p>The next charge againſt him is upon the nine<g ref="char:EOLhyphen"/>teenth Article, <hi>For endeavoring the ſubverſion of the fundamentall lawes of both kingdomes, and that he ſhould compell conſcience, by forcing the Kings ſubjects there, to take an oath contrary to Law and juſtice.</hi>
+            </p>
+            <p>My Lords, this his deſigne to ſubvert the Law, and exerciſe power above the Law, was a deſigne conceived in his heart long before it was executed; <hi>That the King might doe every thing that power would admit, and that the King, if hee pleaſed, might reduce this kingdome to obedience, by the army he had in Ireland.</hi>
+            </p>
+            <p>My Lord Primate teſtifies, That before the Parliament he ſaid, <hi>That if the Parliament would not apply themſelves to his Majeſty<g ref="char:punc">▪</g> the King was acquitted before God and man, and might make uſe of his prerogative.</hi> My Lord <hi>Conway</hi> chargeth him with the ſame; adding withall, <hi>That if hee tooke this courſe, the people would give 12 Subſidies.</hi>
+            </p>
+            <p>Whereupon a Parliament was called, but ſoone by his meanes diſſolved, and ſo the Kings neceſſities unſupplied. Either therefore my Lord of Strafford muſt bee thought a Prophet, of elſe that he projected and effected the diſſolu<g ref="char:EOLhyphen"/>tion
+<pb n="14" facs="tcp:112374:9"/>
+of the Parliament.</p>
+            <p>The next Article is, That he told and counſel<g ref="char:EOLhyphen"/>led his Majeſty, <hi>That the City was undutifull and unthankfull, and that no good would be done with them till they were made an example, and layd by the heeles, and ſome of the Aldermen hanged up.</hi>
+            </p>
+            <p>My Lords, That he gave this counſel, plainly appeares, for thereupon foure Aldermen were inſtantly committed. So that it is evident, the Earle of Strafford had premeditated this de<g ref="char:EOLhyphen"/>ſigne.</p>
+            <p>Now my Lords put all theſe together, whe<g ref="char:EOLhyphen"/>ther the occaſion of the warre, and diſſolving of the Parliament, were not the end of his devices and counſels, to bring this kingdom to an arbi<g ref="char:EOLhyphen"/>trary and tyrannicall government.</p>
+            <p>So, my Lords, if words &amp; intentions, if coun<g ref="char:EOLhyphen"/>ſels and actions, of ſuch dangerous conſequence to whole kingdomes, be a ſufficient evidence of a deſigne to ſubvert the Lawes, I hope I have ſa<g ref="char:EOLhyphen"/>tisfied your Lordſhips therein. And ſo, my Lords, I have done with the proofes on the Commons ſide.</p>
+            <p>My Lords, I mentioned the ſeventeenth Ar<g ref="char:EOLhyphen"/>ticle before, which ſpake of making a Warrant to levy the Kings money by force: This, my Lords, was acted at the command of the Depu<g ref="char:EOLhyphen"/>tie, as it is confeſſed<g ref="char:punc">▪</g> by Sir <hi>William Pennyman.</hi>
+            </p>
+            <p>My Lords, It is plaine my Lord of Strafford commanded it: for Sir <hi>William</hi> ſaith that the Warrant was made at the purſuance of the di<g ref="char:EOLhyphen"/>rection
+<pb n="15" facs="tcp:112374:9"/>
+of my Lord of Strafford.</p>
+            <p>Put all theſe together, and I doubt not but he will bee found, and it will plainely appeare he is the occaſion of all the evils that have fallen upon the Nation, wherewith hee is charged in this article.</p>
+            <p>I come now, my Lords, to the laſt paſſage my Lord of Strafford hath expreſt, which I will ob<g ref="char:EOLhyphen"/>ſerve.</p>
+            <p>For the firſt, my Lords, pleaſe you to take notice how he begs your pitty and compaſſion. My Lords, If he had exerciſed compaſſion to<g ref="char:EOLhyphen"/>wards others, hee might perhaps have expected ſome extenuation, ſome mitigation of his of<g ref="char:EOLhyphen"/>fences. But when he hath beene the Incendiary to ſo many miſchiefes, and calamities which have befallen and infeſted his Majeſties Subjects both in England, Scotland, and Ireland, how can he hope or expect but that the reward of his hands be given him.</p>
+            <p>
+               <hi>My Lords,</hi> Your Lordſhips have heard him often ſay, it is very ſtrange he ſhould be queſti<g ref="char:EOLhyphen"/>oned for words, being no matter of fact, and therefore to ſweep away him, and his poſterity from among the living, for things (as he ſaith) of no conſequence, of no ſolidity at all, is very hard.</p>
+            <p>
+               <hi>My Lords,</hi> I anſwer, what reſpect, what pitty, or Chriſtian compaſſion did he ever demon<g ref="char:EOLhyphen"/>ſtrate, when he was in his Kingdome, in Ireland, when he cauſed thoſe that refuſed to pay, to bee
+<pb n="16" facs="tcp:112374:10"/>
+committed; when hee compelled the great Councell of the Kingdome to ſtoope to his de<g ref="char:EOLhyphen"/>vices, when he trampled on the Peeres, and op<g ref="char:EOLhyphen"/>preſſed the Kings ſubjects, with what great in<g ref="char:EOLhyphen"/>dignity did he uſe them, how did he inſult upon people of all rankes?</p>
+            <p>
+               <hi>My Lords,</hi> He is charged with offences of the higheſt nature: And whereas he alleadgeth by way of excuſe, that if theſe things bee made crimes, the affaires of the Kingdome will be left ſo waſte and deſolate, that no man of wiſdome will meddle with them.</p>
+            <p>Pleaſe my Lord of Strafford therefore take notice, That the Kings Miniſters ought to ſerve his Majeſty according to Law, and no other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p>Can he then my Lords, pin theſe miſdemea<g ref="char:EOLhyphen"/>nours (as he calls them) upon his Majeſty, which no prudent Stateſman ever did.</p>
+            <p>What is it but Treaſon, to make the cauſe of the groanes and ſighes of his Majeſties ſubjects to proceed from his ſacred Majeſty?</p>
+            <p>This is a courſe no wiſe Miniſter ever pra<g ref="char:EOLhyphen"/>ctiſed, thus to queſtion his great Maſter, and as much as in him lies, to make the ſubject weary of ſerving, and the King of protecting.</p>
+            <p>What is this, but to make his Majeſtie thinke, That his Royall prerogative is neither comprehended within the limits of Law, nor the bounds of Reaſon; For if he had not an in<g ref="char:EOLhyphen"/>tention to ſubvert the Lawes, why ſhould hee
+<pb n="17" facs="tcp:112374:10"/>
+ſuggeſt theſe things into the Kings eares? what is this my Lords, but as much as in him lies, to confound all Law?</p>
+            <p>What is this, but to make his Majeſty think, that the protection and defence of his people, is the way to his ruin &amp; deſtruction. To make the people begin to loath the Crowne, and the King hate his people; and ſhould I often repeat it, ſure I am there is ſo much candor in the Kings heart, that it will juſtifie what I have ſaid.</p>
+            <p>
+               <hi>My Lords,</hi> There is no greater ſafety to Prince or People, than to have the Throne eſta<g ref="char:EOLhyphen"/>bliſhed by good Counſellors, and no greater danger can befall a Kingdome, than to have ſuch who are wicked and dangerous.</p>
+            <p>He alleadgeth for himſelfe the great hazzard every Counſellor will run, if they ſhall be que<g ref="char:EOLhyphen"/>ſtioned for giving their Counſells freely, ac<g ref="char:EOLhyphen"/>cording to their oathes, who then, ſaith he, will be a Counſellor?</p>
+            <p>
+               <hi>My Lords,</hi> For many yeares you know it, and I cannot without griefe of heart once mention it; there hath been an evill ſpirit of contention that hath moved and ſtirred amongſt us, which hath been the author and fomenter of all our diſtractions, <hi>viz.</hi> Neceſſity and Danger. Theſe evill Counſells have brought the King into ne<g ref="char:EOLhyphen"/>ceſſity, and neceſſity hath ever had danger its at<g ref="char:EOLhyphen"/>tendant.</p>
+            <p>The foundations hereof are laid upon that of Shipmoney, and diſſolution of Parliaments, by
+<pb n="18" facs="tcp:112374:11"/>
+perſwading the King not to ſticke to any rules of government, but to governe without rule or Law.</p>
+            <p>But I pray my Lords, conſider what ill courſes my Lord of Straffords Councells have produced, and how peſtilent to both King<g ref="char:EOLhyphen"/>domes.</p>
+            <p>Your Lordſhips may remember how he hath ſcandalized ſome Peeres of your Realme of Ire<g ref="char:EOLhyphen"/>land, when he openly expreſt, at the Parliament there, That things were carried againſt him by faction and correſpondence, and what threats he then uſed to terrifie them.</p>
+            <p>To conclude all my Lords, The Earle of Strafford is here arraigned of high Treaſon, for going about to ſubvert the fundamentall Lawes of the Kingdome.</p>
+            <p>
+               <hi>My Lords,</hi> You are ſons of the ſame Anceſtors, that enacted, maintained, and preſerved theſe Lawes which he would have ruined, and the ſame blood runs in your Veines.</p>
+            <p>You cannot my Lords, thinke him worthy to live, who hath attempted theſe things againſt all Law: What Law hath he not broken?</p>
+            <p>He hath attempted the ruine of three King<g ref="char:EOLhyphen"/>domes at one blow, it was by him projected: but bleſſed be our good God, here it ſtopt, it was never effected.</p>
+            <p>Therefore my Loeds, if you would be ſafe, or live in peace, and ſtill enjoy thoſe Lawes, for the maintenance whereof, your Fathers ſhed
+<pb n="19" facs="tcp:112374:11"/>
+their deareſt blood; then caſt this <hi>Ionas</hi> (who yet lies aſleep on the bed of ſecurity) into the Sea, leſt the Ship of the Common-wealth ſplit and ſinke.</p>
+            <p>
+               <hi>My Lords,</hi> It is a cauſe concernes the King, and here is the remonſtrance of the Kingdomes of England, Scotland, and Ireland, who all humbly beg it.</p>
+            <p>
+               <hi>My Lords,</hi> What the danger and horror of it would have produced, had theſe miſchiefes been brought to birth, I leave to your great judgements ſeriouſly to conſider.</p>
+            <p>And thus my Lords, have I delivered the charge given me by the Houſe of Commons, as briefly and plainly as I could, and therefore doe here with all humility conclude, and ſubmit.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
